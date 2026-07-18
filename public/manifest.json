@@ -1,0 +1,25 @@
+{
+  "short_name": "TraviQue",
+  "name": "TraviQue - Premium AI Travel Planner",
+  "description": "Progressive Web App for elite luxury travel planning. Access your itineraries and packing checklists completely offline.",
+  "start_url": "/",
+  "background_color": "#0F172A",
+  "theme_color": "#2563EB",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "categories": ["travel", "productivity"],
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/192/compass.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/compass.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}

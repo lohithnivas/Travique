@@ -1,28 +1,20 @@
-# TraviQue – AI Travel Planner
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-An AI-powered travel planning web application that helps users create personalized itineraries, discover destinations, and manage trips effortlessly.
+# Run and deploy your AI Studio app
 
-## ✨ Features
-- 🤖 AI-powered itinerary generation
-- 🌍 Destination recommendations
-- 🗺️ Interactive maps
-- 📅 Trip planner
-- 💰 Budget estimation
-- 🌤️ Weather information
-- 📱 Responsive design
+This contains everything you need to run your app locally.
 
-## 🛠️ Tech Stack
-- React / Next.js (or your frontend framework)
-- Tailwind CSS
-- Node.js (if applicable)
-- AI Integration
-- Google Maps / OpenStreetMap
-- Gemini API (if used)
+View your app in AI Studio: https://ai.studio/apps/83d95e10-c0a5-4f6c-b44e-a8d9a8e9d849
 
-## 🚀 Installation
+## Run Locally
 
-```bash
-git clone https://github.com/yourusername/travique.git
-cd travique
-npm install
-npm run dev
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

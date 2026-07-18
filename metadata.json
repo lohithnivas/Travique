@@ -1,0 +1,6 @@
+{
+  "name": "TraviQue",
+  "description": "Premium AI-powered travel planner that generates highly personalized travel itineraries based on user preferences. Travel Smarter. Explore Better.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
