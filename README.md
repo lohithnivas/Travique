@@ -11,6 +11,9 @@ An AI-powered travel planning web application that helps users create personaliz
 - 🌤️ Weather information
 - 📱 Responsive design
 
+##Live Demo:-
+https://lohithnivas.github.io/Travique/
+
 ## 🛠️ Tech Stack
 - React / Next.js (or your frontend framework)
 - Tailwind CSS
